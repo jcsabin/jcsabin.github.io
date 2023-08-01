@@ -1,0 +1,794 @@
+{
+  "titles": {
+    "index": "Scalable Blockchain Infrastructure: Billions of transactions & counting",
+    "404": "404: Not Found",
+    "about": "About Solana: The Mission and Team",
+    "collective": "Collective",
+    "validators": "Validators: Help Secure the Network and Earn SOL",
+    "tokens": "SOL: The Native Token of the Solana Blockchain",
+    "team": "Team",
+    "tds": "Solana’s Tour de SOL: Our Incentivized Testnet Program",
+    "explorer": "Explorer",
+    "newsletter": "Newsletter",
+    "disclaimer": "Disclaimer",
+    "developers": "Developers: Resources and Information for Building on Solana",
+    "contact": "Contact Us: Get your questions answered",
+    "developers-sm": "Developers",
+    "community-sm": "Community",
+    "about-sm": "About",
+    "contact-sm": "Contact",
+    "ecosystem-sm": "Ecosystem",
+    "validators-sm": "Validators",
+    "community": "Solana Community: Join our ecosystem",
+    "accelerator": "Solana Grants: Build on a blockchain that actually scales.",
+    "chaos": "Chaos. Pure chaos.",
+    "careers": "Network Careers",
+    "priceguarantee": "Price Guarantee",
+    "press": "Solana Branding",
+    "conference": "Save the date.",
+    "hackathon2021": "Solana Season Hackathon"
+  },
+  "foundation": {
+    "titles": {
+      "team": "Team",
+      "about": "About"
+    },
+    "footer": {
+      "validators": {
+        "heading": "Validators",
+        "link1": "Delegation Program"
+      },
+      "community": {
+        "heading": "Community",
+        "forums": "Forums",
+        "discord": "Discord"
+      },
+      "resources": {
+        "heading": "Resources",
+        "link1": "Network Careers",
+        "link2": "Network Explorer"
+      }
+    }
+  },
+  "careers": {
+    "marketing-lead": "Marketing Lead",
+    "front-end": "Front End Engineer",
+    "systems": "Systems Engineer",
+    "ops": "Operations",
+    "ui-ux": "Senior UX/UI Designer",
+    "sre": "Site Reliability Engineer",
+    "eng": "Engineering",
+    "val": "Validator",
+    "partners": "Partner",
+    "apply": "To apply to any of the roles listed above, send an email with your resume to"
+  },
+  "disclaimer": {
+    "tos": "Terms of Service",
+    "updated": "Updated",
+    "hero": "Website Disclaimer",
+    "nothing": "Nothing in this website is an offer to sell, or the solicitation of an offer to buy, any tokens. Solana is publishing this website solely to receive feedback and comments from the public. If and when Solana offers for sale any tokens (or a Simple Agreement for Future Tokens), it will do so through definitive offering documents, including a disclosure document and risk factors. Those definitive documents also are expected to include an updated version of this website, which may differ significantly from the current version. If and when Solana makes such an offering in the United States, the offering likely will be available solely to accredited investors.",
+    "guarantee": "Nothing in this website should be treated or read as a guarantee or promise of how Solana’s business or the tokens will develop or of the utility or value of the tokens. This website outlines current plans, which could change at its discretion, and the success of which will depend on many factors outside Solana’s control, including market-based factors and factors within the data and cryptocurrency industries, among others. Any statements about future events are based solely on Solana’s analysis of the issues described in this website. That analysis may prove to be incorrect.",
+    "question": "Have a question?",
+    "clarification": "Not sure exactly what we’re looking for or just want clarification? We’d be happy to chat with you and clear things up for you."
+  },
+  "nav": {
+    "documentation": "Documentation",
+    "jump": "Jump right in",
+    "accelerator": "Grants",
+    "funding": "Apply for funding and 1:1 support",
+    "livesupport": "Live support from the Solana team"
+  },
+  "cta": {
+    "examples": "Want to play around and learn through examples?",
+    "demos": "Check Out Demos",
+    "docs": "Ready to jump straight into the documentation?",
+    "build": "Start Building",
+    "learn-contrib": "Want to learn about or contribute to the codebase?",
+    "source": "View Source Code",
+    "friends": "Let’s be friends. Stay in touch.",
+    "newsletter": "Join Newsletter",
+    "view-ecosystem": "View more",
+    "chat-with": "Chat With Us",
+    "dont": "Get Solana updates delivered straight to your inbox",
+    "announcement": "Buy SOL",
+    "about": "More About Us",
+    "accelerator": "Apply",
+    "subscribe": "Subscribe Now",
+    "nonus": "Non-US Only"
+  },
+  "collective": {
+    "apply": "Apply Now",
+    "part1": "The Collective supports active Solana evangelists for running meetups, moderating community channels, creating educational content, and much more. Join the Solana team in promoting various community and marketing initiatives all while accumulating rewards for your efforts. Apply if you’re interested in helping spread the word!",
+    "part2": "The Solana Collective offers a way for individuals to participate alongside the Solana core team through various community and marketing initiatives while accumulating rewards."
+  },
+  "404": {
+    "title": "Uh Oh.",
+    "copy": "This page does not exist",
+    "back-button": "Previous page",
+    "home-button": "Home page"
+  },
+  "accelerator": {
+    "header": "Kickstart your project on Solana",
+    "subheader": "The Solana Foundation Grants Program gives teams access to funding, dedicated technical support, recruiting assistance, and more.",
+    "apply": "Apply",
+    "build": "Build on a blockchain <emphasis>that actually scales.</emphasis>",
+    "payitdown": "Solana opens a global landscape for blockchain level applications with feasibility: our technology enables decentralization, democratization, and automation at scale.",
+    "subheader-2": "The Solana Grants Program helps new infrastructure projects, end-user applications, and everything in between launch to democratize the Internet and global financial system.",
+    "llvm": "LLVM compatible languages supported for smart contract development",
+    "apis": "Will provide high-level APIs that will be highly compatible with existing UIs written specifically for Ethereum to reduce developer friction",
+    "ux": "Improved user experience",
+    "transactions": "Transactions That Work",
+    "transactions-subheader": "Don’t worry about fees.",
+    "tiny": "Ours are tiny.",
+    "fees": "Instead of constantly worrying about when your use case will be unfeasible, just use Solana.",
+    "pert": "$0.0001 per transaction",
+    "settlement": "Quick settlement time (sub-second finality)",
+    "consensus": "PoS consensus mechanism",
+    "transactionorder": "Automatic transaction ordering",
+    "validator": "Want to learn what it takes to be a Solana validator?",
+    "runnode": "Run a Node",
+    "biz": "Ready to get your crypto project off the ground?",
+    "apply2": "Apply Now",
+    "contribute": "Want to learn about or contribute to the codebase?"
+  },
+  "validators": {
+    "secure": "Secure the ledger.",
+    "earn": "Earn SOL.",
+    "participate": "Decentralize the network by providing computing resources.",
+    "become-cta": "Become a Validator",
+    "stakingnd": "Staking & Validation",
+    "stake": "Stake tokens and earn rewards by processing and validating transactions. Earn commissions by managing delegated tokens on behalf of others.",
+    "testnet": "Testnet Competition",
+    "build": "Earn tokens by running a node to help test new features and benchmark network performance.",
+    "ecosystem": "Meet Our Validators",
+    "participatetitle": "Participate",
+    "register": "Register for TdS",
+    "register-page": "Register Now",
+    "onsolana": "Validate on Solana",
+    "storage": "Storage Mining",
+    "disk": "Provide excess disk space to store the Solana ledger’s data in stripes. Auto-delegate earned SOL to staking validation clients to compound earnings.",
+    "become": "Become a validator and get tokens.",
+    "existence": "Without validators, the Solana cluster cannot exist. Help maintain the integrity of the ledger and earn rewards while doing so.",
+    "rewards": "Protocol Based Rewards",
+    "issuances": "Issuances from a global, protocol-defined, inflation rate. These rewards are delivered on top of earnings from transaction fees.",
+    "fees": "Transaction Fees",
+    "feesdesc": "Transaction fees are market-based p2p transfers, attached to network interactions for state execution.",
+    "staking": "Staking",
+    "howstaking": "Stakers are rewarded for helping to validate the ledger. They do this by delegating their stake to validator nodes. Those validators do the legwork of replaying the ledger and send votes to a per-node vote account to which stakers can delegate their stakes. The rest of the cluster uses those stake-weighted votes to select a block when forks arise.",
+    "tps": "transactions processed since March 2020. Help validate the fastest blockchain in the world.",
+    "pert": "per transaction. Capture transaction fees as a validator.",
+    "validators": "Global Validators. Join our cohort of elite network experts.",
+    "docs": "Interested in learning more? Check out our docs.",
+    "start-registration": "Ready to start? Click the link below.",
+    "howto": "Validating on Solana",
+    "header": "Validator Signup",
+    "info": "Compensation Legal Proceedings",
+    "items-one": "Thank you for your interest in supporting the Solana cluster. Below is information related to the legal proceedings required to issue compensation for validator participation on either the Mainnet Beta, Tour de SOL, or Testnet clusters.",
+    "items-two": "Complete identity verification via Passbase below.",
+    "items-three": "Sign the universal Validator compensation document via DocuSign.",
+    "same-email": "Please use the same email for both Passbase identity verification and DocuSign.",
+    "run": "Run a Node",
+    "discuss": "Discuss with other validators and the Solana team.",
+    "progress": "Not ready to run a node? Want to keep updated with Solana’s progress?",
+    "step1": "Step 1. Register",
+    "process": "Follow the <strong>four step</strong> process outlined in the link above for registration, KYC/AML, participation agreement, and Discord onboarding.",
+    "both-register": "Completing these steps will register you to validate on Solana's Tour de SOL and Mainnet Beta networks.",
+    "before": "Before onboarding to Mainnet, validators should successfully participate in at least one “stage” of our incentivized testnet: <tdslink>Tour de SOL.</tdslink>",
+    "stages": "Stages kick off monthly; after registration see <stagelink>here</stagelink> for the latest stage information (including details regarding compensation, bug bounties, etc).",
+    "inflationary": "Until inflationary rewards are enabled, validators are directly compensated for their services by the Solana Foundation.",
+    "successful": "After successfully participating in a stage of Tour de SOL, you will be eligible to receive a Solana Foundation delegation on Mainnet Beta.",
+    "us": "U.S. individuals and entities are currently EXCLUDED from participating",
+    "step2": "Step 2. Participate in Tour de SOL",
+    "step3": "Step 3. Join Mainnet Beta",
+    "anyone": "Anyone can run a validator node on Solana’s permissionless testnet and Mainnet Beta networks!",
+    "getstarted": "To get started, check out our docs on the <techlink>technical requirements and steps to start your own node.</techlink>",
+    "activecomm": "We have a very active community of validators on our <discordlink>Discord server.</discordlink>  This is the best place to get technical support and ask questions.",
+    "permissionless": "Solana’s networks are permissionless and therefore anyone can begin running a validator node at any time. Registration and KYC are required to receive compensation from the Solana Foundation. Please note that U.S. entities and individuals are not eligible to receive compensation at this time.",
+    "participate-2": "Participate in Tour de SOL to be eligible for Solana Foundation delegation",
+    "registration": {
+      "head": "Compensation Registration Process",
+      "steps": "Please complete the steps below to be eligible for token compensation for validation services first on the Solana Testnet and then Mainnet Beta networks.",
+      "no-u": "Solana’s networks are permissionless and therefore anyone can begin running a validator node at any time. Registration and KYC are required to receive compensation from the Solana Foundation. Please note that U.S. entities and individuals are not eligible to receive compensation at this time.",
+      "registration": "Registration",
+      "form": "Tour de SOL (TdS) Registration Form",
+      "keybase": "We no longer require participants to link their Public Key with their Keybase account",
+      "req": "Registration and successful participation in at least one stage of TdS is a requirement before becoming eligible for compensation on Mainnet Beta",
+      "more": "More info on Tour de SOL <tdslink>here</tdslink>",
+      "kyc": "KYC/AML (via Passbase)",
+      "before": "If you’ve completed KYC/AML previously for SLP or TdS with the same entity/individual on Coinlist or Passbase, then you will not need to go through this again.",
+      "no-us": "We cannot accept U.S. entities or individuals for KYC or compensation",
+      "participation": "Complete Participation Agreement",
+      "same-email": "Please use the same email address as used for Passbase identity verification",
+      "discord": "Join Our Discord",
+      "discord-desc": "Requirement for all validators, as this is our primary communication channel for technical discussions, network announcements and upgrades, etc"
+    },
+    "qa": {
+      "q1": "Q: What is a validator?",
+      "a1": "A: Validators form the backbone of Solana’s network. By processing transactions and participating in consensus, each validator helps make Solana the most high-performance blockchain network in the world.",
+      "q2": "Q: Who can run a validator node?",
+      "a2": "A: Anyone!",
+      "q3": "Q: How do I run a validator node?",
+      "a3": "A: To get started, check out our docs on the <valnodelink>technical requirements and steps to start your own node</valnodelink>.",
+      "q4": "Q: How do I get help running a validator node?",
+      "a4": "A: We have a very active community of validators on our <discordlink>Discord server.</discordlink>  This is the best place to get technical support and ask questions.",
+      "q5": "Q: Why should I run a validator node?",
+      "a5": "A: Validators can earn SOL for helping secure the Solana network. Here's an overview of the <economicslink>economics</economicslink>, and <overviewlink>here's</overviewlink> an overview of staking rewards. Validators also help increase censorship resistance on the network by increasing decentralization.",
+      "q6": "Q: What’s the Foundation Delegation program?",
+      "a6": "A: It’s a Solana Foundation program to incentivize new validators to the network. Read more about it <readmorefoundlink>here</readmorefoundlink>."
+    }
+  },
+  "priceguarantee": {
+    "hero": "Solana Price Guarantee Registration",
+    "redeem": "Price Guarantee Redeem",
+    "subheader": "Fill out the form below to complete price guarantee registration.",
+    "subheader-redeem": "Fill out the form below to redeem your price guarantee.",
+    "newsletter": "Not ready to claim your price guarantee? Want to keep updated with Solana’s progress?",
+    "terms": "Full Price Guarantee Terms"
+  },
+  "commands": {
+    "gtdocs": "Go to Docs",
+    "visitf": "Visit Forums",
+    "forum": "Discuss on Forum",
+    "chat": "Get Chat Support",
+    "updated": "Want to keep updated with Solana’s progress?",
+    "build": "Build Now",
+    "contact": "Contact Us",
+    "learn": "Learn More",
+    "helpsecure": "Help Secure the Network",
+    "mailchimp": "Not ready to start building? Keep in touch."
+  },
+  "newsletter": {
+    "signup": "Sign up to the Solana Newsletter",
+    "spam": "We promise we won’t spam you.",
+    "informed": "Stay Informed"
+  },
+  "hackathon": {
+    "title": "Solana Wormhole Hackathon",
+    "warp": "Boost your project at warp speed",
+    "prizes": "Up to $200k in prizes",
+    "register": "Register"
+  },
+  "hackathon2021": {
+    "date": "May 15 - June 7th 2021",
+    "title": "Solana Season",
+    "subtitle": "Jumpstart your next project on Solana & join the fastest growing ecosystem in crypto",
+    "resources": "Get Started",
+    "register": "Register now",
+    "submit": "Submit Your Project",
+    "participation": "Anyone with an internet connection can participate",
+    "supportedBy": "With support from:",
+    "pricesAndFunding": "Up to <emphasis>$1 million</emphasis> in global prizes and seed funding",
+    "regionalTitle": "Regional Tracks & Events",
+    "regionalParticipation": "While anyone globally can participate, builders in specific countries have the opportunity to compete for regional prizes",
+    "speakerTitle": "Speakers and Judges",
+    "speakerScheduleSubtitle": "Take a look at the full schedule <scheduleLink>here</scheduleLink>",
+    "speakerPositions": {},
+    "newsletter": "Join Newsletter",
+    "disclaimer": "Disclaimer",
+    "globalGrandPrize": "$30,000 grand prize",
+    "globalExtraPrizesOld": "Also $25k from<sl></sl><serumLink>Serum</serumLink>, $25k from Kin, $15k from<sl></sl><raydiumLink>Raydium</raydiumLink><sr></sr>and $15k from Pyth",
+    "globalExtraPrizes": {
+      "serum": "$25k",
+      "kin": "$25k",
+      "raydium": "3k RAY",
+      "pyth": "$25k",
+      "ournetwork": "$25k",
+      "media": "$30k"
+    },
+    "globalTracks": {
+      "defi": "DeFi Track",
+      "web3": "Web3 Track",
+      "nft": "NFT Track"
+    },
+    "regionalTracks": {
+      "china": "China. Supported by <serumLink>Serum</serumLink> and <raydiumLink>Raydium</raydiumLink>",
+      "india": "India. Supported by <devfolioLink>Devfolio</devfolioLink> and <coindcxLink>CoinDCX</coindcxLink>",
+      "russia": "Eastern Europe. Supported by <hackenLink>Hacken</hackenLink>",
+      "brazil": "Brazil. Supported by <brzLink>BRZ</brzLink>",
+      "vietnam": "Vietnam. Supported by <kyberLink>Kyber</kyberLink> and <coinLink>Coin98</coinLink>",
+      "africa": "Africa. Supported by <blockchainNigeriaLink>Blockchain Nigeria</blockchainNigeriaLink>, <bundleLink>Bundle</bundleLink>, and more"
+    },
+    "places": {
+      "place1": "1st place",
+      "place2": "2nd place",
+      "place3": "3rd place"
+    },
+    "globalPrizes": {
+      "place1": "$20k",
+      "place2": "$10k",
+      "place3": "$5k"
+    },
+    "regionalPrizes": {
+      "china": {
+        "extra": "$125k",
+        "extraSub": "Prize Pool"
+      },
+      "india": {
+        "extra": "$50k",
+        "extraSub": "Prize Pool"
+      },
+      "russia": {
+        "extra": "$180k",
+        "extraSub": "Prize Pool"
+      },
+      "brazil": {
+        "extra": "$25k",
+        "extraSub": "Prize Pool"
+      },
+      "vietnam": {
+        "extra": "$25k",
+        "extraSub": "Prize Pool"
+      },
+      "africa": {
+        "extra": "$25k",
+        "extraSub": "Prize Pool"
+      }
+    }
+  },
+  "community": {
+    "hero": "Join the Crypto Revolution",
+    "featcontent": "Featured Content",
+    "header": "The Solana community is a globally distributed home to developers, token holders, validators, and members supporting the protocol.",
+    "info": "Hear from the CEO",
+    "podcast": "Go to Podcast",
+    "chat": "Chat with us directly",
+    "discord": "Go to Discord",
+    "learn": "Learn in Depth",
+    "blog": "Go to Blog",
+    "collective": "Support the Solana core team through community and marketing initiatives while accumulating rewards.",
+    "socials": {
+      "hero": "Community Wayfinding",
+      "subheader": "You name it, we’ve got it. The following are our most frequented and updated communication channels.",
+      "telegram": "Telegram",
+      "approx-members": "~{number} members",
+      "gt-members": ">{number} members",
+      "announcements": "Announcements",
+      "discord": "Discord",
+      "engineering": "Engineering",
+      "twitter": "Twitter",
+      "approx-followers": "~{number} followers",
+      "medium": "News",
+      "approx-write-ups": "~{number} write-ups",
+      "blogposts": "Blog Posts",
+      "github": "GitHub",
+      "vk": "VK",
+      "vk-subscribers": "~{number} followers",
+      "weibo": "Weibo",
+      "weibo-subscribers": ">{number} subscribers",
+      "twitter-jp": "Twitter Japan",
+      "twitter-jp-subscribers": ">{number} members",
+      "forum": "Solana Forums",
+      "forum-subscribers": ">{number} posts",
+      "gt-stars": ">{number} stars",
+      "youtube": "YouTube",
+      "gt-subscribers": ">{number} subscribers",
+      "yt-subscribers": ">{number}K subscribers",
+      "videos": "Videos",
+      "email": "Email",
+      "oneonone": "1:1",
+      "reddit": "Reddit",
+      "discussions": "Discussions",
+      "meetup": "Meetup",
+      "meetings": "Meetings"
+    },
+    "articles": {
+      "latest": "Latest Stories",
+      "description": "Here’s what we’ve been up to recently.",
+      "view": "View all"
+    },
+    "jill": {
+      "title": "Jill Carlson - Partner at Slow Ventures / Co-Founder Of The Open Money Initiative",
+      "text": "We had a blast hosting Jill Carlson for episode #15 of No Sharding, The Solana Podcast. For this episode we took a different approach..."
+    },
+    "cluster-launch": {
+      "title": "SLP1 Cluster Launch",
+      "text": "We’re excited to announce the successful launch of our “Soft Launch” cluster. An incentivized cluster for development and partner integration. This cluster will run in parallel and separate to Tour de SOL (TdS)."
+    },
+    "solana2019": {
+      "title": "Solana in 2019: Growth, Development, and the Road to Mainnet",
+      "text": "It’s been a hell of a year. As we prepare for the next decade, we want to recap the amazing progress Solana made in 2019. From intensive, heads down infrastructure work to announcing our $20m raise led by Multicoin Capital..."
+    },
+    "brendan": {
+      "title": "Brendan Eich - Co-founder / CEO Brave Software and Attention Token",
+      "text": "Brendan talks briefly about his background (Javascript creator & Mozilla co-founder) and then jumps right into how..."
+    },
+    "sam": {
+      "title": "Sam Bankman-Fried - CEO of FTX, Co-founder of Serum",
+      "text": "A day after Project Serum was officially announced, Anatoly and Sam sat down to discuss the current trading environment in crypto, the future of DeFi, and to provide additional details around the high-speed, non-custodial decent..."
+    },
+    "dieter": {
+      "title": "Dieter Shirley - CTO of Dapper Labs, Lead Architect of Flow",
+      "text": "No Sharding is the name of the podcast, and that is precisely what this episode is all about. From developing flow to leading the engineering team who designed Crypto Kitties, Dieter has extensive experience in both L1 and L2..."
+    },
+    "rodolfo": {
+      "title": "Rodolfo Gonzalez - Partner at Foundation Capital",
+      "text": "This episode is all about venture capital. Rodolfo Gonzales is a partner at Foundation Capital, a venture capital firm that backs individuals who want to nudge the world ahead in some way, using a transformative business as their..."
+    },
+    "royandreisen": {
+      "title": "Meher Roy & Reisen - Co-Founders of Chorus One Ep #14",
+      "text": "Chorus One is operating infrastructure to help you securely increase your crypto holdings. Meher..."
+    },
+    "sunnya": {
+      "title": "Sunny Aggarwal - Core Developer at Tendermint / Cosmos",
+      "text": "This episode is all about Validators. Are you interested in learning more about how to run a node and become a validator?"
+    },
+    "defi": {
+      "title": "A Deep Dive Into DeFi With FTX, Aave, Balancer, Curve, Gauntlet, and Solana",
+      "text": "This is a special episode of The Solana Podcast - we took a recent panel for the Solana Wormhole Hackathon and converted into audio format for you! Enjoy this deep dive into all things DeFi with industry leaders."
+    },
+    "tds-week-2": {
+      "title": "Tour de SOL – Week 2 Recap",
+      "text": "Welcome back to everyone who’s been following along on our progress during Tour de SOL..."
+    },
+    "tds-week-1": {
+      "title": "Tour de SOL – Week 1 Recap",
+      "text": "We’re officially a week into Stage 1 of Tour de SOL (TdS), and what a week it has been. Our goal was to begin to stress test our..."
+    },
+    "serum": {
+      "title": "FTX Chooses Solana for Serum: A High-Speed, Non-Custodial Decentralized Derivatives Exchange",
+      "text": "FTX and Alameda Research created the Serum Foundation and announced Serum, a new high-speed, non-custodial DEX that’s built on Solana. You can learn more about Serum in the white paper and in this comprehensive write-up on The Block."
+    },
+    "arweave": {
+      "title": "Announcing the Solana Arweave Interoperability Hack",
+      "text": "Today Solana is excited to announce a collaboration with Arweave. We are both calling for developers to build a bridge between the Solana and Arweave projects. This bounty is now live on Gitcoin and includes a 15,000 DAI reward. You can learn more about the scope and rules of the bounty here!"
+    },
+    "tdsstage1": {
+      "title": "Tour de SOL Stage 1 Details",
+      "text": "We are revising Tour de SOL (TdS) from 3 events into an ongoing series of incentivised and scheduled events..."
+    },
+    "coinlist": {
+      "title": "Solana Raises 1.76 Million in Sold-Out Coinlist Auction",
+      "text": "On March 23rd at 10 pm PST our Coinlist auction went live. The dutch auction sold out the 8 million available SOL tokens in 6 hours. We want to thank our community for the overwhelmingly positive response to this auction, despite the current world conditions."
+    },
+    "terra": {
+      "title": "Solana Partners with Terra to Build a Low-Latency Token Bridge, Bringing Stablecoins To The Solana Ecosystem",
+      "text": "Together we’re building a new high-speed token bridge that facilitates the transfer of Terra stablecoins into Solana’s dapp ecosystem. Terra’s tokens will be the first stablecoins on the Solana network. By bringing stablecoins onto our network, we aim to dramatically expand the design space for developers, opening the door to novel applications that require price-stable payments."
+    },
+    "chainlink": {
+      "title": "Chainlink and Solana Integration: High-Speed Price Oracle Data for Better DeFi Applications",
+      "text": "Financial contracts are data-driven instruments that react to market events, such as the price change of an underlying asset. Smart contracts, in particular, are automated financial products, meaning the data directly triggers the execution and settlement of the contract as opposed to employing a human intermediary."
+    },
+    "popular": {
+      "title": "Get up to speed on all the recent news",
+      "description": "Here are some selections from the past few months."
+    }
+  },
+  "developers": {
+    "accelerator-header": "Get support, funding, and office space for your blockchain project.",
+    "build": {
+      "prediction-market": "prediction market",
+      "payments-network": "payments network",
+      "exchange": "exchange",
+      "market": "marketplace"
+    },
+    "pitch": {
+      "focus": "Focus on your business,",
+      "focus-2": "not your infrastructure.",
+      "network": "The global, distributed network is specifically built to scale with Moore’s Law, without sacrificing decentralization or security to support users and devices in the billions.",
+      "language": "Code in your language.",
+      "vm": "Code in Rust, C, and C++. Flexible virtual machine integrations, with more on the way.",
+      "wait-times": "Avoid long wait times for your users.",
+      "fast": "Blazing fast speeds and no mempool. 400ms blocktimes and sub-second finality. Web 3.0 with Web 2.0 speed.",
+      "scale": "Capital efficient as the ecosystem grows.",
+      "scale-context": "Solana scales thanks to Moore’s Law — there's no need to integrate with multiple shards or layer 2 solutions.",
+      "security": "Enterprise-grade security.",
+      "audit": "Audited by a Fortune 500-preferred security firm. Iron-clad immutability for global scale."
+    },
+    "pitch-2": {
+      "users": "Your users will",
+      "users-notice": "never even notice.",
+      "performance": "Solana’s performance is unparalleled, and specifically built for high-frequency and massive-scale applications.",
+      "pmt": "Block Height",
+      "validators": "Current Epoch",
+      "blocktimes": "Block Time",
+      "tps": "Total Transactions"
+    }
+  },
+  "tokens": {
+    "distribution": "Token Economics",
+    "transparency-head": "Transparency Reports",
+    "transparency-body": "The Solana Foundation releases a monthly transparency report to cover the previous month’s token activity, expected token activity for the current month, and other updates in relation to the SOL token. The goal for these reports is simple: token activity transparency.",
+    "distribution-content": "SOL is the native token of the Solana blockchain. Community tokens are held by the Swiss Foundation, which is run by an independent board. This token pool is used for bounties, incentives programs, marketing, and grants.",
+    "hero": "The SOL Token",
+    "may": "June Report",
+    "may-summ": "A recap of all token activity over the past two months",
+    "june": "July Report",
+    "june-summ": "Giveaway and Foundation token movement",
+    "july": "August Report",
+    "july-summ": "Giveaway and Foundation token movement",
+    "august": "September Report",
+    "september": "October Report",
+    "october": "November Report",
+    "november": "December Report",
+    "august-summ": "Foundation token movement",
+    "hero-context": "Powering the Solana blockchain",
+    "chat": "Chat with Us",
+    "learn-more": "Learn more about the token",
+    "custody": "Custody",
+    "wallet": "Wallet"
+  },
+  "primer": {
+    "header": "Solana Primer",
+    "subheader": "Read through and complete the quiz to claim your prize",
+    "intro": "Solana is a high-speed single-layer blockchain, currently supporting peak capacity of 65k transactions per second and 400ms block times with over 50 nodes. It is specifically built to scale transaction throughput with Moore’s Law. There is no sharding required to achieve this throughput.",
+    "caption": "Solana's global performance visualized",
+    "former": "Founded by former Qualcomm, Intel, and Dropbox engineers in late-2017, Solana is a single-chain Proof-of-Stake protocol whose focus is on delivering scalability without sacrificing decentralisation or security.",
+    "scaling": "At the core of Solana’s scaling solution is a decentralised clock titled Proof-of-History (PoH), built to solve the problem of time within distributed networks.",
+    "background": "Background on Solana",
+    "moore": "The protocol is designed to scale together hardware and bandwidth improvements, with capacity expected to double every 2 years.",
+    "investors": "Development of the network was supported by fundraising of over $25 million from notable investors including Multicoin Capital, Foundation Capital, Distributed Global, CMCC, Blocktower Capital, NGC Capital and Rockaway Ventures.",
+    "tpartners": "Token Partners",
+    "mission": "Solana’s mission is to be the obvious choice for all high-growth and high-frequency blockchain applications, and to democratize the world’s financial systems."
+  },
+  "security": {
+    "head": "Solana Security",
+    "info": "At Solana, one of our top priorities is the security and safety of the network. To further this focus, we welcome security researchers to submit reports through HackerOne, so the Solana team can evaluate and reward vulnerabilities.",
+    "guidelines": "Responsible Disclosure Guidelines",
+    "hackerone": "Solana has partnered with HackerOne for our vulnerability disclosure program. Notify Solana and provide all details of the vulnerabilities you find using the form provided by HackerOne below.",
+    "exploit": "Do not exploit a security issue you discover for any reason.",
+    "non-technical": "Do not conduct non-technical attacks such as social engineering, phishing, or unauthorized access to infrastructure and employees of Solana.",
+    "physical": "Do not test the physical security of Solana offices, employees, equipment, etc.",
+    "right": "By reporting a security bug or vulnerability, you give us the right to use your report for any purpose."
+  },
+  "referral": {
+    "title": "Giveaway",
+    "random": "Random Winners",
+    "prizes": "SOL Prizes",
+    "cybertruck": "Cybertruck Giveaway",
+    "total": "Total",
+    "top": "Top Referrers",
+    "thanks": "Thank you for participating in the giveaway. Token distribution is currently underway.",
+    "adblock": "If you cannot see the signup form, turn off your adblocker.",
+    "typeform": "NOTE: You will not receive any SOL if you do not complete the",
+    "primer": "Primer",
+    "head": "Giveaway",
+    "subheader": "In partnership with Binance, to celebrate Solana's listing",
+    "mxc-subheader": "In partnership with MXC, to celebrate Solana's listing",
+    "bitmax-subheader": "In partnership with Bitmax, to celebrate Solana's listing",
+    "okex-subheader": "In partnership with OKEx, to celebrate Solana's listing",
+    "trust-subheader": "To celebrate Trust's Wallet integration of SPL tokens",
+    "staratlas-subheader": "Read the white paper and complete the quiz to be eligible for a prize",
+    "bitthumb-subheader": "Win up to ◎1,000 by registering, following Solana on social channels, and referring your friends to do the same!",
+    "ftx-subheader": "In partnership with FTX, to celebrate Solana's listing",
+    "huobi-subheader": "In partnership with Huobi, to celebrate Solana's listing",
+    "toko-subheader": "In partnership with Tokocrypto, to celebrate Solana's listing",
+    "gate-subheader": "In partnership with Gate, to celebrate Solana's voting",
+    "rewards": "Learn, Refer, Follow and Earn SOL.",
+    "rewards-copy": "Fill this form to register, get your referral code, and start competing.",
+    "rewards-copy-2": "Complete these steps to earn a reward and be eligible for the random drawing.",
+    "primer-head": "Take the Quiz",
+    "primer-copy": "Read the brief primer (below) on what makes Solana the first web-scale blockchain, and complete the short quiz.",
+    "telegram-head": "Join the Telegram",
+    "telegram-copy": "Submit your Telegram handle and join the Solana Telegram group (or one of the language-specific groups)",
+    "telegram-url": "https://t.me/solana",
+    "telegram-korea": "Join the Korean Telegram Group",
+    "newsletter-head": "Join the Newsletter",
+    "newsletter-copy": "Sign up for the newsletter to receive updates on new partnerships, features, and promotions.",
+    "deposit-head": "Net buy at least 5 SOL in the first two weeks after the FTX listing",
+    "deposit-copy": "Once SOL is listed on the FTX exchange, net buy at least 5 SOL. Net buy is defined as the sum of all buys on all SOL markets and SOL futures markets minus the sum of all sales on SOL spot markets and SOL futures markets.",
+    "depositokex-head": "Net buy at least 5 SOL in the first two weeks after the OKEx listing",
+    "depositokex-copy": "Once SOL is listed on the OKEx exchange, net buy at least 5 SOL. Net buy is defined as the sum of all buys on all SOL markets minus the sum of all sales on SOL spot markets.",
+    "cybertruck-head": "Every user who has completed steps 1 - 5 will receive one (1) entry into the lottery draw to win a Tesla Cybertruck.",
+    "cybertruck-copy": "Additionally, users can receive one further entry for every additional 5 SOL net bought on the FTX platform to a maximum of fifty (50) entries.",
+    "twitter-head": "Follow us on Twitter",
+    "twitter-copy": "Follow our Twitter for the latest updates, media content, and public announcements about Solana.",
+    "weibo-copy": "Alternatively: Weibo for Chinese users.",
+    "refer-head": "Refer at Least One Friend",
+    "refer-copy": "Share your link (from the form above) with others in your network.",
+    "medium-head": "Korea Medium (Optional)",
+    "medium-copy": "Follow our Korean Medium blog.",
+    "naver-head": "Naver (Optional)",
+    "naver-copy": "Subscribe to our Naver page."
+  },
+  "tds": {
+    "context": "Now live! Solana’s incentivized testnet event. An opportunity to flex their validation skills, earn tokens, and secure the Solana network.",
+    "event": "The Event",
+    "questions": "Let’s answer your questions and dive right into it.",
+    "what": "What is it?",
+    "stages": "Solana’s Tour de SOL will be an event in stages, each stage focusing on a different performance capacity that will be required to be a validator on the network.",
+    "started": "Can I get started now?",
+    "get-started": "Yes – the first step is to join our live testnet. If you’re interested in participating in Tour de SOL, we <testnetLink>recommend you start exploring the testnet ASAP</testnetLink>. Have a look around, introduce yourself to the other nodes, make yourself at home. The <forumLink>forums are the best way to get up to date information on TdS</forumLink>. Here we have an open discussion with the community on what is going right and what needs to be fixed.",
+    "participate": "What will I need to participate?",
+    "requirements": "As of right now, there aren’t any technical requirements to start playing around on the testnet, have at it. Closer to TdS launch, we’ll be enabling GPU transaction verification which will give a huge TPS boost to validators with GPUs. Potential participants should plan on having their GPU hardware ready before the event starts. See our recommended Validator node specs <specsLink>here</specsLink> (specifically the “mid-range option” should be plenty of firepower).",
+    "updated": "Where can I stay updated about TdS?",
+    "updated-context": "Join our Discord for support from our team and to follow along for Tour de SOL updates and announcements (have a look in #validator-support). You can also find community support in our recently launched forums. TdS news will be announced on both channels so keep an eye out!",
+    "history": "History",
+    "gos": "Inspired by Cosmos’ Game of Stakes we loved the idea of getting early on in the project to help build out our global network.",
+    "readmore": "Read More",
+    "invite": "<announcementLink>Validators, replicators, hackers, and malicious actors alike — You’re invited to take part!</announcementLink> On current iterations of the Solana Testnet, a network of 200 physically distinct nodes supports a sustained throughput of more than 50,000 transactions per second when running with GPUs. These numbers make Solana the most performant permissionless blockchain in the world. Thanks to innovations including Proof of History, Parallel Processing, and Proof of Replication, we believe Solana to be the fastest while most secure blockchain — and now it’s time to empower the Solana community to prove it. <announcementLink>Read the full TDS announcement post here. </announcementLink>",
+    "ctaparticipate": "Ready to participate in Tour de SOL?",
+    "register": "Register for TdS",
+    "newsletter": "Not ready to become a validator? Keep in touch."
+  },
+  "press": {
+    "hero": "Brand Kit",
+    "content": "Solana is building the fastest blockchain in the world. Every day, we solve problems of scale, decentralization, and privacy to create the best experience for blockchain users and developers. Our headquarters are located in Geneva, Switzerland, and we're backed by investors like Multicoin Capital, Slow Ventures, Foundation Capital, 500 Startups, and Abstract Ventures.",
+    "logos": "Full Brand Kit",
+    "logos-copy": "Download all variations of our logo, alongside type styles and color guidelines.",
+    "screenshots": "Screenshots",
+    "screenshots-copy": "Download various screenshots from product tests, launches, and active clusters.",
+    "team": "Creator Bios",
+    "team-copy": "The creators have a storied history. Take a look at their bios.",
+    "office": "Office Photos from the Creators",
+    "office-copy": "Solana Labs, the creators of the protocol, is headquartered in San Francisco, but has team members and community contributors from around the world.",
+    "download": "Download",
+    "view": "View"
+  },
+  "team": {
+    "header": "The creators of the protocol hail from some of the best companies in the world.",
+    "head": "Built with time-tested principles of global distributed systems",
+    "context": "Solana was built with blood, sweat, tears, and experience from tech's most innovative companies",
+    "head-2": "High-performance blockchain, high-performance team.",
+    "head-2-context": "Solana is taking on one of tech's biggest challenges: scaling blockchain for global adoption.",
+    "sf": "Located in San Francisco",
+    "beyond": "and beyond.",
+    "team": "The Creators",
+    "hq": "Solana is headquartered in San Francisco, Boulder and San Diego. But we have contributors to code, marketing, and community on every continent.",
+    "from": "The creators of the protocol, Solana Labs, hail from some of the best companies in the world.",
+    "experience": "The creators of the protocol, Solana Labs, hail from some of the best companies in the world.",
+    "join": "Interested in opportunities to support the Solana network?",
+    "hit-up": "Reach out to some of these contributors.",
+    "apply": "Apply now",
+    "view-team": "View our Team",
+    "gtteam": "Go to Team"
+  },
+  "index": {
+    "header": {
+      "hero": "Build Crypto Apps that Scale",
+      "context": "Solana is a fast, secure, and censorship resistant blockchain providing the open infrastructure required for global adoption.",
+      "coinlist": "FTX has listed the SOL token! Enter to win a Cybertruck or up to ◎500.",
+      "hackathon": "Register today and join leaders from Compound, Aave, FTX, and more!"
+    },
+    "stats": {
+      "last-global-benchmark": "Last global benchmark",
+      "pmt": "Block Height",
+      "validators": "Nodes",
+      "blocktimes": "Block Time",
+      "break": "Try to Break Solana",
+      "totaltransactions": "Total Transactions"
+    },
+    "innovations": {
+      "core": "<emphasis>8 core innovations</emphasis> enable your business scale to billions of users and devices around the world",
+      "trilemma": "Don’t choose between scale, security, and decentralization. Solana has solved the trilemma for you. No sharding required. Here’s how.",
+      "poh": "Proof of History (PoH) →",
+      "poh-context": "A clock before consensus",
+      "tower": "Tower BFT →",
+      "tower-context": "A PoH-optimized version of PBFT",
+      "turbine": "Turbine →",
+      "turbine-context": "A block propagation protocol",
+      "gulfstream": "Gulf Stream →",
+      "gulfstream-context": "Mempool-less transaction forwarding protocol",
+      "sealevel": "Sealevel →",
+      "sealevel-context": "World’s first parallel smart contracts run-time",
+      "pipeline": "Pipeline →",
+      "pipeline-context": "Transaction processing unit for validation",
+      "cloudbreak": "Cloudbreak →",
+      "cloudbreak-context": "Horizontally-scaled accounts database",
+      "archivers": "Archivers →",
+      "archivers-context": "Distributed ledger storage"
+    },
+    "video": {
+      "learn-more": "Learn more about Solana",
+      "watch-now": "Watch now"
+    },
+    "value": {
+      "goodbye": "Say goodbye to high fees and slow confirmations. Solana is built for speed, without trade-offs.",
+      "scalable": "Scalable",
+      "leverage": "Solana leverages Proof of History and several other breakthrough innovations to allow the network to scale at the rate of Moore's Law.",
+      "low": "Low Cost",
+      "worry": "Never worry about rising fees as your user base grows. Solana is designed to keep fees low for applications with billions of users.",
+      "comp": "Composable",
+      "state": "Solana's single global state ensures composability between projects. Never deal with multiple shards or layer 2 systems."
+    },
+    "break": {
+      "title": "Try to Break Solana",
+      "copy": "Solana can process 50k transactions per second. Don't believe us? Stress test the network to experience Solana's speed for yourself.",
+      "play": "Play Now"
+    },
+    "welcome": {
+      "head": "The Solana community welcomes you",
+      "many": "There are many ways to contribute to the Solana ecosystem. Build an app, organize an event, or create educational resources to help others learn.",
+      "join": "Join the Community",
+      "apply": "Apply to the Collective"
+    },
+    "use-cases": {
+      "vision": "Focus on your vision. If it’s decentralized, we’ve got you covered.",
+      "next-great": "Build the next great decentralized"
+    },
+    "investors": "Investors",
+    "videos": {
+      "head": "Featured Videos",
+      "poh": "Proof of History Explained",
+      "fiveg": "How Solana Uniquely Enables 5G Billing and Virtual SIM",
+      "fiveg-description": "Listen to our CEO Anatoly discuss how Solana could be used to enable 5G mobile networks.",
+      "vinny": "Vinny Lingham - CEO of Civic & GP at Multicoin Capital",
+      "vinny-description": "Vinny discusses the rationale behind Multicoin's investment in Solana and shows his conviction with the Solana team.",
+      "poh-description": "The key enabler of Solana's record-breaking speed is our consensus mechanism, Proof of History. Learn how it works.",
+      "youtube": "YouTube",
+      "podcast": "Podcast",
+      "skale-podcast-recording": "SKALE Live Podcast Recording",
+      "future-of-defi": "The Future of DeFi with 0x, Chainlink, MakerDAO",
+      "future-of-defi-description": "Listen to some of the top personalities in the crypto industry discuss the past, present, and future of decentralized finance.",
+      "balaji": "Balaji Srinivasan - Angel Investor/Entrepreneur, Formerly the CTO of Coinbase and GP at a16z",
+      "balaji-description": "Balaji joins us on the Solana podcast to chat with our CEO, Anatoly Yakovenko.",
+      "marketshare": "Can Solana Seize Marketshare From Ethereum With Serum?",
+      "marketshare-desc": "Sam Bankman-Fried, CEO of FTX, and Anatoly Yakovenko, Creator of Solana, talk on the Unchained podcast."
+    },
+    "partners": "Join the fastest growing ecosystem in crypto",
+    "partners-sub": "The best projects in DeFi, Web3, and blockchain gaming choose to build on Solana for the long-term",
+    "press": "Press mentions"
+  },
+  "interop": {
+    "head": "Solana Interoperability",
+    "text": "Resources dedicated to supporting multi-chain operations with Solana.",
+    "cta": "Join or Contribute",
+    "cross-chain": "Cross-Chain Bridges",
+    "cross-chain-text": "To support our vision of a multi-chain world, we're working with some of the most talented teams in the industry to develop standards for cross chain activities.",
+    "web-wallets": "Web Wallets",
+    "web-wallets-text": "Solana will soon be integrated into a web wallet similar to Metamask on the Chrome Web Store, thanks to the dFuse team. We're exploring more ways to include Solana in popular wallet interfaces.",
+    "data-sources": "Data Sources",
+    "data-sources-text": "From the dedicated Solana Explorer to network metrics on Solanabeach, we continue to explore how to best provide on-chain data via simple APIs.",
+    "dfuse-head": "Solana Wallet",
+    "dfuse-text": "A Chrome Extension to interact with the Solana network",
+    "keep-head": "tBTC Integration",
+    "keep-text": "A cross chain swap demo with tBTC",
+    "solflare-head": "Web-based Solana Wallet",
+    "solflare-text": "A web interface for Ledger Live supporting staking",
+    "torus-head": "OAuth Wallet",
+    "torus-text": "A web wallet with OAuth integration and cookie support",
+    "coin98-head": "Multi-Sig Support",
+    "coin98-text": "Integrating multisig standards from the Bitcoin and Litecoin ecosystem",
+    "certus-head": "Wormhole",
+    "certus-text": "Building a SOL to ETH bridge",
+    "obsidian-head": "BTC/ETH Bridges",
+    "obsidian-text": "Interact with the BTC and ETH networks",
+    "serum-head": "Serum Wallet",
+    "serum-text": "A web wallet with web integration and cookie support",
+    "math-head": "Web Wallet Infrastructure",
+    "math-text": "Easily interact with SOL through web extension APIs",
+    "ren-head": "Multichain",
+    "ren-text": "An abstraction over multiple different underlying blockchains"
+  },
+  "about": "About",
+  "footer": {
+    "copyright": "© Solana Labs, Inc.",
+    "copyright-foundation": "The Solana Foundation",
+    "allrights": "All rights reserved.",
+    "build": "Build",
+    "guides": "Guides",
+    "blog": "Blog",
+    "learn": "Learn",
+    "podcast": "Podcast",
+    "team": "Team",
+    "videos": "Videos",
+    "events": "Events",
+    "faq": "FAQ",
+    "apply": "Apply",
+    "auction": "Auction",
+    "tds": "Tour de SOL",
+    "accelerator": "Grants",
+    "solanabeach": "Network Stats",
+    "break": "Break Solana",
+    "collective": "Collective",
+    "careers": "Careers",
+    "docs": "Docs",
+    "github": "GitHub",
+    "chat": "Chat",
+    "other": "Other",
+    "disclaimer": "Disclaimer",
+    "foundation": "Foundation",
+    "presskit": "Press & Brand"
+  },
+  "ecosystem": {
+    "title": "projects and counting",
+    "titlereal": "projects and counting",
+    "sub": "Every Solana partnership, collaboration, and integration – all in one place."
+  },
+  "conference": {
+    "title": "It's show time.",
+    "savethedate": "Save the date.",
+    "subtitle": "Lisbon, Portugal",
+    "date": "November 5-10, 2021",
+    "joinwaitlist": "Receive Updates"
+  }
+}
